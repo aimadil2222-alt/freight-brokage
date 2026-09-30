@@ -1,0 +1,6 @@
+{
+  "name": "Freight Brokerage Landing Page",
+  "description": "A clean, modern, and professional landing page for a Freight Brokerage company connecting shippers with reliable freight solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
